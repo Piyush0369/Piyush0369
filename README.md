@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Piyush !](https://twitter.com/Piyush3Dewangan)
 
 <!--
 **Piyush0369/Piyush0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Piyush0369&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)

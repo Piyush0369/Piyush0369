@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Piyush !](https://twitter.com/Piyush3Dewangan)
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,firebase,angular,git,nodejs,mysql,flutter)
 <!--
 **Piyush0369/Piyush0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

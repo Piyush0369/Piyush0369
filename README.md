@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<summary>Github Stats ⚡</summary>
-  <!--
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Piyush0369&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=30)</a>
--->
+  
+<summary>Github Stats ⚡</summary>
+
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)

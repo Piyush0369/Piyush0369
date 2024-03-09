@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
+  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Piyush0369)](https://github.com/Piyush0369)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)

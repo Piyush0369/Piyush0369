@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Piyush0369)](https://github.com/Piyush0369)
   <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Piyush0369&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=30)</a>-->
 
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=light&count_private=true&hide_border=true)</a>
 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0369&" alt="piyush0369" /></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)

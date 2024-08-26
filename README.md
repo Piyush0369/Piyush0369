@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 ### Hi there 👋 I'm [Piyush !](https://twitter.com/Piyush3Dewangan)
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,firebase,angular,git,nodejs,mysql,flutter,react,java)
 <!--
@@ -23,6 +25,6 @@ Here are some ideas to get you started:
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=light&count_private=true&hide_border=true)</a>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0369&" alt="piyush0369" /></p>
-
-
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)
+-->

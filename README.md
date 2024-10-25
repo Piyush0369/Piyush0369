@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0369&layout=compact&theme=light&count_private=true&hide_border=true)</a>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0369&" alt="piyush0369" /></p>
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=piyush0369&margin-w=15&row=1&column=5)](https://github.com/piyush0369/github-profile-trophy)
+<!--   [![Trophies](https://github-profile-trophy.vercel.app/api?username=piyush0369&margin-w=15&row=1&column=5)](https://github.com/piyush0369/github-profile-trophy) -->
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=Piyush0369.Piyush0369)
 -->

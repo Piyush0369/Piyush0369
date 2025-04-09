@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm [Piyush !](https://twitter.com/Piyush3Dewangan)
 I'm a passionate software developer with a love for learning, creating, and collaborating.
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,firebase,angular,git,nodejs,mysql,flutter,react,java)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,aws,firebase,angular,git,github,nodejs,mysql,flutter,react,java,react,laravel,spring,wordpress,electrol,eclipse)
 <!--
 **Piyush0369/Piyush0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
